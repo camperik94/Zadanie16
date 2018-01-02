@@ -11,7 +11,9 @@ public class Zadanie {
 		
 		Obliczanie obl = new Obliczanie(liczba);
 		
-		System.out.println(obl.funkcja());
+		//System.out.println(obl.funkcja());
+		
+		System.out.println(obl.suma());
 		
 	}
 }
